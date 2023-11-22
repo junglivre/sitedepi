@@ -27,7 +27,7 @@ html{
   position: fixed;
   background-color: #00000099;
   width: 100%;
-  padding: 30px 0;
+  padding: 20px 0;
   top: 0;
   z-index: 999;
   transition: .3s linear;
@@ -178,7 +178,7 @@ section{
 }
 
 .texto-sobre #download{
-  text-align: center; !important
+  text-align: center;
 }
 
 .dark .texto-sobre p{
